@@ -1,19 +1,9 @@
 # just another readme <3
 
-Bora lá, começar a brincadeira!
-Vamos começar a escrever todo esse conteúdo junto e vamos aprendendo e tirando dúvidas juntos.
+Bora lá, a brincadeira vai começar!
 
-- instalar tudo que precisamos
-  - git
-  - terraform
-  - terragrunt
-  - aws-cli
-  - leapp.cloud
-- criar conta na aws
+## como vamos seguir a criação do projeto
 
-## objetivo
-
-    *step by step*
 desenhar arquitetura (draw.io)
 entender cada serviço que usaremos (AWS)
 criar modulos e provisionar recursos (terraform + terragrunt)
